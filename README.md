@@ -1,2 +1,12 @@
 # Modern-data-stack-in-an-hour
-Learn how to build an end-to-end lakehouse architecture all the way from ingestion to reporting. In this lab, learn how to ingest data into the lakehouse leveraging our Data Integration capabilities. Then, see how you can use notebooks and Spark to transform your data at scale.
+
+![](assets/img.png)
+
+# 1. Import notebook to Microsoft Fabric Data Engineering
+Gif with instructions. Download or import. 
+
+# 2. Follow the notebook exercises
+
+# 3. SQL
+
+![image-alt-text](https://github.com/ekote/azure-architect/blob/master/images/9.gif?raw=true)
